@@ -1,0 +1,59 @@
+commit 1fa0a5de4b8102a4f59e0ce0d4efc4c43e94279a
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:19:33 2017 -0400
+
+    Añadir boton al final de la pagina
+
+commit f6111e8790d7caa5b0746d174f87a2d9f792376b
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:18:11 2017 -0400
+
+    correccion de errores
+
+commit 59c60366580f7ca5819ecc25530419d46bba7350
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:16:59 2017 -0400
+
+    Añadiendo botones al Nav
+
+commit 60994da40353d9c367e617e0fc9df00dcdb94776
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:15:28 2017 -0400
+
+    Añadiendo texto a contacto
+
+commit 08b828083b2a096478538eef68480f5d62d0a3bc
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:12:06 2017 -0400
+
+    Añadiendo todo lo demas
+
+commit 29cbbdcedbbc5123d234bbdea786d83859654818
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:09:56 2017 -0400
+
+    Añadiendo Viuda Negra
+
+commit 751f87f4cc8269052ed2e40c23b62dd712f737b8
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:07:29 2017 -0400
+
+    Adicion del boton de GITHUB
+
+commit abe1def912116a924625833b7453977ba2efd4fc
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:04:05 2017 -0400
+
+    Cambio en el subtitulo de la pagina
+
+commit d00ae316509a71fd164579bbd15169e0fc55f025
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 12:01:15 2017 -0400
+
+    Cambio del texto del titulo
+
+commit 90cb98aab35896242df14afe0c9edd91943d86d8
+Author: koko <kokopunk39@gmail.com>
+Date:   Sat Mar 25 11:50:11 2017 -0400
+
+    Commit inicial
